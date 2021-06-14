@@ -37,7 +37,8 @@
 
     // Columns at which to show vertical rulers.
     "editor.rulers": [
-        140
+        140,
+        80,
     ],
 
     // Configure file associations to languages (e.g. "*.extension": "html").
@@ -80,4 +81,7 @@
     "phpcs.enable": true,
     "phpcs.standard": "Drupal,DrupalPractice",
     "phpcs.executablePath": "/home/<USER>/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs.bat"
+    
+    // GITLAB
+    "gitlab.instanceUrl": "https://gitlab.com"
 }
