@@ -17,6 +17,7 @@
 * [Drupal 8 Twig Snippets](https://marketplace.visualstudio.com/items?itemName=tsega.drupal-8-twig-snippets)
 * [Drupal Smart Snippets](https://marketplace.visualstudio.com/items?itemName=andrewdavidblum.drupal-smart-snippets)
 * [Drupal Syntax Hightlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
+* [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
 ### Git / GitLab / GitHub
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
@@ -26,6 +27,7 @@
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Others
+* [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   * [French - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french)
@@ -36,7 +38,6 @@
 * [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 * [Mustache](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
@@ -50,4 +51,3 @@
 ## Helps & Ressources
 * https://www.drupal.org/docs/develop/development-tools/configuring-visual-studio-code
 * https://github.com/viatsko/awesome-vscode
-
