@@ -50,7 +50,8 @@
         "*.theme": "php",
         "*.tpl.php": "php",
         "*.test": "php",
-        "*.php": "php"
+        "*.php": "php",
+        "*.html": "twig"
     },
 
     // When enabled, will trim trailing whitespace when saving a file.
@@ -80,7 +81,7 @@
     // PHPCS
     "phpcs.enable": true,
     "phpcs.standard": "Drupal,DrupalPractice",
-    "phpcs.executablePath": "/home/<USER>/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs.bat"
+    "phpcs.executablePath": "/home/<USER>/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs"
     
     // GITLAB
     "gitlab.instanceUrl": "https://gitlab.com"
