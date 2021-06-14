@@ -33,13 +33,14 @@
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 * [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [gettext](https://marketplace.visualstudio.com/items?itemName=mrorz.language-gettext)
+* [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 * [Mustache](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-### Installation
+## Installation
 1. Open Visual Studio Code.
 2. Press Ctrl+P on Windows or Cmd+P on Mac to open the Quick Open dialog.
 3. Type : "ext install composer" to find the extension.
