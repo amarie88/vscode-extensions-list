@@ -19,12 +19,17 @@
 * [Drupal Syntax Hightlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
 * [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
 
-### Git / GitLab / GitHub
+### Git
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+### GitHub
+* [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
 * [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces)
 * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+### GitLab
 * [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Others
 * [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
