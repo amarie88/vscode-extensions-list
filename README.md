@@ -38,6 +38,7 @@
   * [French - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french)
 * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+* [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [empty-indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)
 * [gettext](https://marketplace.visualstudio.com/items?itemName=mrorz.language-gettext)
 * [GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
